@@ -1,1 +1,2 @@
 print("uwu")
+turtle.up()
